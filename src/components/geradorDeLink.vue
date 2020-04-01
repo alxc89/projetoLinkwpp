@@ -43,8 +43,8 @@ export default {
   data: function() {
     return {
       input: {
-        numero: "00 00000000000",
-        mensagem: "Minha mensagem"
+        numero: "",
+        mensagem: ""
       }
     };
   },
